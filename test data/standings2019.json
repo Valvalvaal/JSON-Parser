@@ -1,0 +1,1271 @@
+{
+      "get": "standings/",
+      "parameters": {
+            "league": "standard",
+            "season": "2019"
+      },
+      "errors": [],
+      "results": 30,
+      "response": [
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 26,
+                        "name": "Orlando Magic",
+                        "nickname": "Magic",
+                        "code": "ORL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 8,
+                        "win": 20,
+                        "loss": 23
+                  },
+                  "division": {
+                        "name": "southeast",
+                        "rank": 2,
+                        "win": 9,
+                        "loss": 5,
+                        "gamesBehind": "11.0"
+                  },
+                  "win": {
+                        "home": 18,
+                        "away": 15,
+                        "total": 33,
+                        "percentage": ".452",
+                        "lastTen": 5
+                  },
+                  "loss": {
+                        "home": 17,
+                        "away": 23,
+                        "total": 40,
+                        "percentage": ".548",
+                        "lastTen": 5
+                  },
+                  "gamesBehind": "23.0",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 5,
+                        "name": "Charlotte Hornets",
+                        "nickname": "Hornets",
+                        "code": "CHA",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 10,
+                        "win": 16,
+                        "loss": 24
+                  },
+                  "division": {
+                        "name": "southeast",
+                        "rank": 4,
+                        "win": 2,
+                        "loss": 7,
+                        "gamesBehind": "17.0"
+                  },
+                  "win": {
+                        "home": 10,
+                        "away": 13,
+                        "total": 23,
+                        "percentage": ".354",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 21,
+                        "away": 21,
+                        "total": 42,
+                        "percentage": ".646",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "29.0",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 20,
+                        "name": "Miami Heat",
+                        "nickname": "Heat",
+                        "code": "MIA",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 5,
+                        "win": 30,
+                        "loss": 13
+                  },
+                  "division": {
+                        "name": "southeast",
+                        "rank": 1,
+                        "win": 10,
+                        "loss": 4,
+                        "gamesBehind": "0.0"
+                  },
+                  "win": {
+                        "home": 29,
+                        "away": 15,
+                        "total": 44,
+                        "percentage": ".603",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 7,
+                        "away": 22,
+                        "total": 29,
+                        "percentage": ".397",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "12.0",
+                  "streak": 2,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 41,
+                        "name": "Washington Wizards",
+                        "nickname": "Wizards",
+                        "code": "WAS",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 9,
+                        "win": 18,
+                        "loss": 27
+                  },
+                  "division": {
+                        "name": "southeast",
+                        "rank": 3,
+                        "win": 5,
+                        "loss": 9,
+                        "gamesBehind": "18.5"
+                  },
+                  "win": {
+                        "home": 16,
+                        "away": 9,
+                        "total": 25,
+                        "percentage": ".347",
+                        "lastTen": 2
+                  },
+                  "loss": {
+                        "home": 20,
+                        "away": 27,
+                        "total": 47,
+                        "percentage": ".653",
+                        "lastTen": 8
+                  },
+                  "gamesBehind": "30.5",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 1,
+                        "name": "Atlanta Hawks",
+                        "nickname": "Hawks",
+                        "code": "ATL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 14,
+                        "win": 11,
+                        "loss": 32
+                  },
+                  "division": {
+                        "name": "southeast",
+                        "rank": 5,
+                        "win": 6,
+                        "loss": 7,
+                        "gamesBehind": "21.0"
+                  },
+                  "win": {
+                        "home": 14,
+                        "away": 6,
+                        "total": 20,
+                        "percentage": ".299",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 20,
+                        "away": 27,
+                        "total": 47,
+                        "percentage": ".701",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "33.0",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 38,
+                        "name": "Toronto Raptors",
+                        "nickname": "Raptors",
+                        "code": "TOR",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 2,
+                        "win": 34,
+                        "loss": 11
+                  },
+                  "division": {
+                        "name": "atlantic",
+                        "rank": 1,
+                        "win": 9,
+                        "loss": 5,
+                        "gamesBehind": "0.0"
+                  },
+                  "win": {
+                        "home": 26,
+                        "away": 27,
+                        "total": 53,
+                        "percentage": ".736",
+                        "lastTen": 9
+                  },
+                  "loss": {
+                        "home": 10,
+                        "away": 9,
+                        "total": 19,
+                        "percentage": ".264",
+                        "lastTen": 1
+                  },
+                  "gamesBehind": "2.5",
+                  "streak": 4,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 27,
+                        "name": "Philadelphia 76ers",
+                        "nickname": "76ers",
+                        "code": "PHI",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 6,
+                        "win": 28,
+                        "loss": 18
+                  },
+                  "division": {
+                        "name": "atlantic",
+                        "rank": 3,
+                        "win": 11,
+                        "loss": 5,
+                        "gamesBehind": "10.5"
+                  },
+                  "win": {
+                        "home": 31,
+                        "away": 12,
+                        "total": 43,
+                        "percentage": ".589",
+                        "lastTen": 5
+                  },
+                  "loss": {
+                        "home": 4,
+                        "away": 26,
+                        "total": 30,
+                        "percentage": ".411",
+                        "lastTen": 5
+                  },
+                  "gamesBehind": "13.0",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 2,
+                        "name": "Boston Celtics",
+                        "nickname": "Celtics",
+                        "code": "BOS",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 3,
+                        "win": 30,
+                        "loss": 13
+                  },
+                  "division": {
+                        "name": "atlantic",
+                        "rank": 2,
+                        "win": 9,
+                        "loss": 6,
+                        "gamesBehind": "5.0"
+                  },
+                  "win": {
+                        "home": 26,
+                        "away": 22,
+                        "total": 48,
+                        "percentage": ".667",
+                        "lastTen": 6
+                  },
+                  "loss": {
+                        "home": 10,
+                        "away": 14,
+                        "total": 24,
+                        "percentage": ".333",
+                        "lastTen": 4
+                  },
+                  "gamesBehind": "7.5",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 4,
+                        "name": "Brooklyn Nets",
+                        "nickname": "Nets",
+                        "code": "BKN",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 7,
+                        "win": 23,
+                        "loss": 23
+                  },
+                  "division": {
+                        "name": "atlantic",
+                        "rank": 4,
+                        "win": 6,
+                        "loss": 10,
+                        "gamesBehind": "18.0"
+                  },
+                  "win": {
+                        "home": 20,
+                        "away": 15,
+                        "total": 35,
+                        "percentage": ".486",
+                        "lastTen": 7
+                  },
+                  "loss": {
+                        "home": 16,
+                        "away": 21,
+                        "total": 37,
+                        "percentage": ".514",
+                        "lastTen": 3
+                  },
+                  "gamesBehind": "20.5",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 24,
+                        "name": "New York Knicks",
+                        "nickname": "Knicks",
+                        "code": "NYK",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 12,
+                        "win": 15,
+                        "loss": 28
+                  },
+                  "division": {
+                        "name": "atlantic",
+                        "rank": 5,
+                        "win": 2,
+                        "loss": 11,
+                        "gamesBehind": "29.0"
+                  },
+                  "win": {
+                        "home": 11,
+                        "away": 10,
+                        "total": 21,
+                        "percentage": ".318",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 22,
+                        "away": 23,
+                        "total": 45,
+                        "percentage": ".682",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "31.5",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 21,
+                        "name": "Milwaukee Bucks",
+                        "nickname": "Bucks",
+                        "code": "MIL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 1,
+                        "win": 37,
+                        "loss": 7
+                  },
+                  "division": {
+                        "name": "central",
+                        "rank": 1,
+                        "win": 13,
+                        "loss": 1,
+                        "gamesBehind": "0.0"
+                  },
+                  "win": {
+                        "home": 30,
+                        "away": 26,
+                        "total": 56,
+                        "percentage": ".767",
+                        "lastTen": 3
+                  },
+                  "loss": {
+                        "home": 5,
+                        "away": 12,
+                        "total": 17,
+                        "percentage": ".233",
+                        "lastTen": 7
+                  },
+                  "gamesBehind": "0.0",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 15,
+                        "name": "Indiana Pacers",
+                        "nickname": "Pacers",
+                        "code": "IND",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 4,
+                        "win": 28,
+                        "loss": 19
+                  },
+                  "division": {
+                        "name": "central",
+                        "rank": 2,
+                        "win": 8,
+                        "loss": 7,
+                        "gamesBehind": "11.0"
+                  },
+                  "win": {
+                        "home": 25,
+                        "away": 20,
+                        "total": 45,
+                        "percentage": ".616",
+                        "lastTen": 7
+                  },
+                  "loss": {
+                        "home": 11,
+                        "away": 17,
+                        "total": 28,
+                        "percentage": ".384",
+                        "lastTen": 3
+                  },
+                  "gamesBehind": "11.0",
+                  "streak": 2,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 10,
+                        "name": "Detroit Pistons",
+                        "nickname": "Pistons",
+                        "code": "DET",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 13,
+                        "win": 12,
+                        "loss": 31
+                  },
+                  "division": {
+                        "name": "central",
+                        "rank": 4,
+                        "win": 5,
+                        "loss": 10,
+                        "gamesBehind": "32.5"
+                  },
+                  "win": {
+                        "home": 11,
+                        "away": 9,
+                        "total": 20,
+                        "percentage": ".303",
+                        "lastTen": 1
+                  },
+                  "loss": {
+                        "home": 22,
+                        "away": 24,
+                        "total": 46,
+                        "percentage": ".697",
+                        "lastTen": 9
+                  },
+                  "gamesBehind": "32.5",
+                  "streak": 5,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 6,
+                        "name": "Chicago Bulls",
+                        "nickname": "Bulls",
+                        "code": "CHI",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 11,
+                        "win": 15,
+                        "loss": 28
+                  },
+                  "division": {
+                        "name": "central",
+                        "rank": 3,
+                        "win": 7,
+                        "loss": 9,
+                        "gamesBehind": "30.0"
+                  },
+                  "win": {
+                        "home": 14,
+                        "away": 8,
+                        "total": 22,
+                        "percentage": ".338",
+                        "lastTen": 3
+                  },
+                  "loss": {
+                        "home": 20,
+                        "away": 23,
+                        "total": 43,
+                        "percentage": ".662",
+                        "lastTen": 7
+                  },
+                  "gamesBehind": "30.0",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 7,
+                        "name": "Cleveland Cavaliers",
+                        "nickname": "Cavaliers",
+                        "code": "CLE",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+                  },
+                  "conference": {
+                        "name": "east",
+                        "rank": 15,
+                        "win": 12,
+                        "loss": 32
+                  },
+                  "division": {
+                        "name": "central",
+                        "rank": 5,
+                        "win": 4,
+                        "loss": 10,
+                        "gamesBehind": "33.0"
+                  },
+                  "win": {
+                        "home": 11,
+                        "away": 8,
+                        "total": 19,
+                        "percentage": ".292",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 25,
+                        "away": 21,
+                        "total": 46,
+                        "percentage": ".708",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "33.0",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 14,
+                        "name": "Houston Rockets",
+                        "nickname": "Rockets",
+                        "code": "HOU",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 4,
+                        "win": 28,
+                        "loss": 19
+                  },
+                  "division": {
+                        "name": "southwest",
+                        "rank": 1,
+                        "win": 8,
+                        "loss": 5,
+                        "gamesBehind": "0.0"
+                  },
+                  "win": {
+                        "home": 24,
+                        "away": 20,
+                        "total": 44,
+                        "percentage": ".611",
+                        "lastTen": 5
+                  },
+                  "loss": {
+                        "home": 12,
+                        "away": 16,
+                        "total": 28,
+                        "percentage": ".389",
+                        "lastTen": 5
+                  },
+                  "gamesBehind": "8.5",
+                  "streak": 3,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 31,
+                        "name": "San Antonio Spurs",
+                        "nickname": "Spurs",
+                        "code": "SAS",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 11,
+                        "win": 20,
+                        "loss": 23
+                  },
+                  "division": {
+                        "name": "southwest",
+                        "rank": 4,
+                        "win": 7,
+                        "loss": 6,
+                        "gamesBehind": "11.5"
+                  },
+                  "win": {
+                        "home": 19,
+                        "away": 13,
+                        "total": 32,
+                        "percentage": ".451",
+                        "lastTen": 6
+                  },
+                  "loss": {
+                        "home": 15,
+                        "away": 24,
+                        "total": 39,
+                        "percentage": ".549",
+                        "lastTen": 4
+                  },
+                  "gamesBehind": "20.0",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 19,
+                        "name": "Memphis Grizzlies",
+                        "nickname": "Grizzlies",
+                        "code": "MEM",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 9,
+                        "win": 20,
+                        "loss": 26
+                  },
+                  "division": {
+                        "name": "southwest",
+                        "rank": 3,
+                        "win": 4,
+                        "loss": 9,
+                        "gamesBehind": "10.5"
+                  },
+                  "win": {
+                        "home": 20,
+                        "away": 14,
+                        "total": 34,
+                        "percentage": ".466",
+                        "lastTen": 3
+                  },
+                  "loss": {
+                        "home": 17,
+                        "away": 22,
+                        "total": 39,
+                        "percentage": ".534",
+                        "lastTen": 7
+                  },
+                  "gamesBehind": "19.0",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 23,
+                        "name": "New Orleans Pelicans",
+                        "nickname": "Pelicans",
+                        "code": "NOP",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 13,
+                        "win": 18,
+                        "loss": 30
+                  },
+                  "division": {
+                        "name": "southwest",
+                        "rank": 5,
+                        "win": 4,
+                        "loss": 9,
+                        "gamesBehind": "14.0"
+                  },
+                  "win": {
+                        "home": 15,
+                        "away": 15,
+                        "total": 30,
+                        "percentage": ".417",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 21,
+                        "away": 21,
+                        "total": 42,
+                        "percentage": ".583",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "22.5",
+                  "streak": 3,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 8,
+                        "name": "Dallas Mavericks",
+                        "nickname": "Mavericks",
+                        "code": "DAL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/150px-Mavericks_de_Dallas_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 7,
+                        "win": 27,
+                        "loss": 20
+                  },
+                  "division": {
+                        "name": "southwest",
+                        "rank": 2,
+                        "win": 10,
+                        "loss": 4,
+                        "gamesBehind": "2.5"
+                  },
+                  "win": {
+                        "home": 20,
+                        "away": 23,
+                        "total": 43,
+                        "percentage": ".573",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 18,
+                        "away": 14,
+                        "total": 32,
+                        "percentage": ".427",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "11.0",
+                  "streak": 2,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 11,
+                        "name": "Golden State Warriors",
+                        "nickname": "Warriors",
+                        "code": "GSW",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 15,
+                        "win": 9,
+                        "loss": 34
+                  },
+                  "division": {
+                        "name": "pacific",
+                        "rank": 5,
+                        "win": 2,
+                        "loss": 11,
+                        "gamesBehind": "34.0"
+                  },
+                  "win": {
+                        "home": 8,
+                        "away": 7,
+                        "total": 15,
+                        "percentage": ".231",
+                        "lastTen": 3
+                  },
+                  "loss": {
+                        "home": 26,
+                        "away": 24,
+                        "total": 50,
+                        "percentage": ".769",
+                        "lastTen": 7
+                  },
+                  "gamesBehind": "34.0",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 16,
+                        "name": "LA Clippers",
+                        "nickname": "Clippers",
+                        "code": "LAC",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 2,
+                        "win": 32,
+                        "loss": 16
+                  },
+                  "division": {
+                        "name": "pacific",
+                        "rank": 2,
+                        "win": 8,
+                        "loss": 6,
+                        "gamesBehind": "3.5"
+                  },
+                  "win": {
+                        "home": 27,
+                        "away": 22,
+                        "total": 49,
+                        "percentage": ".681",
+                        "lastTen": 6
+                  },
+                  "loss": {
+                        "home": 9,
+                        "away": 14,
+                        "total": 23,
+                        "percentage": ".319",
+                        "lastTen": 4
+                  },
+                  "gamesBehind": "3.5",
+                  "streak": 2,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 30,
+                        "name": "Sacramento Kings",
+                        "nickname": "Kings",
+                        "code": "SAC",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 12,
+                        "win": 23,
+                        "loss": 23
+                  },
+                  "division": {
+                        "name": "pacific",
+                        "rank": 4,
+                        "win": 8,
+                        "loss": 5,
+                        "gamesBehind": "21.5"
+                  },
+                  "win": {
+                        "home": 16,
+                        "away": 15,
+                        "total": 31,
+                        "percentage": ".431",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 19,
+                        "away": 22,
+                        "total": 41,
+                        "percentage": ".569",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "21.5",
+                  "streak": 2,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 17,
+                        "name": "Los Angeles Lakers",
+                        "nickname": "Lakers",
+                        "code": "LAL",
+                        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 1,
+                        "win": 36,
+                        "loss": 10
+                  },
+                  "division": {
+                        "name": "pacific",
+                        "rank": 1,
+                        "win": 10,
+                        "loss": 3,
+                        "gamesBehind": "0.0"
+                  },
+                  "win": {
+                        "home": 25,
+                        "away": 27,
+                        "total": 52,
+                        "percentage": ".732",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 10,
+                        "away": 9,
+                        "total": 19,
+                        "percentage": ".268",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "0.0",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 28,
+                        "name": "Phoenix Suns",
+                        "nickname": "Suns",
+                        "code": "PHX",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 10,
+                        "win": 19,
+                        "loss": 27
+                  },
+                  "division": {
+                        "name": "pacific",
+                        "rank": 3,
+                        "win": 6,
+                        "loss": 9,
+                        "gamesBehind": "19.0"
+                  },
+                  "win": {
+                        "home": 17,
+                        "away": 17,
+                        "total": 34,
+                        "percentage": ".466",
+                        "lastTen": 9
+                  },
+                  "loss": {
+                        "home": 22,
+                        "away": 17,
+                        "total": 39,
+                        "percentage": ".534",
+                        "lastTen": 1
+                  },
+                  "gamesBehind": "19.0",
+                  "streak": 8,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 9,
+                        "name": "Denver Nuggets",
+                        "nickname": "Nuggets",
+                        "code": "DEN",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 3,
+                        "win": 29,
+                        "loss": 16
+                  },
+                  "division": {
+                        "name": "northwest",
+                        "rank": 1,
+                        "win": 12,
+                        "loss": 2,
+                        "gamesBehind": "0.0"
+                  },
+                  "win": {
+                        "home": 26,
+                        "away": 20,
+                        "total": 46,
+                        "percentage": ".630",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 11,
+                        "away": 16,
+                        "total": 27,
+                        "percentage": ".370",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "7.0",
+                  "streak": 3,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 29,
+                        "name": "Portland Trail Blazers",
+                        "nickname": "Trail Blazers",
+                        "code": "POR",
+                        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 8,
+                        "win": 20,
+                        "loss": 27
+                  },
+                  "division": {
+                        "name": "northwest",
+                        "rank": 4,
+                        "win": 5,
+                        "loss": 8,
+                        "gamesBehind": "11.5"
+                  },
+                  "win": {
+                        "home": 21,
+                        "away": 14,
+                        "total": 35,
+                        "percentage": ".473",
+                        "lastTen": 7
+                  },
+                  "loss": {
+                        "home": 15,
+                        "away": 24,
+                        "total": 39,
+                        "percentage": ".527",
+                        "lastTen": 3
+                  },
+                  "gamesBehind": "18.5",
+                  "streak": 3,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 40,
+                        "name": "Utah Jazz",
+                        "nickname": "Jazz",
+                        "code": "UTA",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 6,
+                        "win": 24,
+                        "loss": 21
+                  },
+                  "division": {
+                        "name": "northwest",
+                        "rank": 3,
+                        "win": 5,
+                        "loss": 7,
+                        "gamesBehind": "1.5"
+                  },
+                  "win": {
+                        "home": 23,
+                        "away": 21,
+                        "total": 44,
+                        "percentage": ".611",
+                        "lastTen": 4
+                  },
+                  "loss": {
+                        "home": 12,
+                        "away": 16,
+                        "total": 28,
+                        "percentage": ".389",
+                        "lastTen": 6
+                  },
+                  "gamesBehind": "8.5",
+                  "streak": 1,
+                  "winStreak": true,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 25,
+                        "name": "Oklahoma City Thunder",
+                        "nickname": "Thunder",
+                        "code": "OKC",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 5,
+                        "win": 27,
+                        "loss": 19
+                  },
+                  "division": {
+                        "name": "northwest",
+                        "rank": 2,
+                        "win": 8,
+                        "loss": 5,
+                        "gamesBehind": "1.5"
+                  },
+                  "win": {
+                        "home": 23,
+                        "away": 21,
+                        "total": 44,
+                        "percentage": ".611",
+                        "lastTen": 6
+                  },
+                  "loss": {
+                        "home": 14,
+                        "away": 14,
+                        "total": 28,
+                        "percentage": ".389",
+                        "lastTen": 4
+                  },
+                  "gamesBehind": "8.5",
+                  "streak": 1,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            },
+            {
+                  "league": "standard",
+                  "season": 2019,
+                  "team": {
+                        "id": 22,
+                        "name": "Minnesota Timberwolves",
+                        "nickname": "Timberwolves",
+                        "code": "MIN",
+                        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+                  },
+                  "conference": {
+                        "name": "west",
+                        "rank": 14,
+                        "win": 9,
+                        "loss": 30
+                  },
+                  "division": {
+                        "name": "northwest",
+                        "rank": 5,
+                        "win": 2,
+                        "loss": 10,
+                        "gamesBehind": "22.5"
+                  },
+                  "win": {
+                        "home": 8,
+                        "away": 11,
+                        "total": 19,
+                        "percentage": ".297",
+                        "lastTen": 3
+                  },
+                  "loss": {
+                        "home": 24,
+                        "away": 21,
+                        "total": 45,
+                        "percentage": ".703",
+                        "lastTen": 7
+                  },
+                  "gamesBehind": "29.5",
+                  "streak": 3,
+                  "winStreak": false,
+                  "tieBreakerPoints": null
+            }
+      ]
+}
