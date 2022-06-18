@@ -18,6 +18,8 @@ def isString(char):
 
 def tokenize(s: str) -> list:
     tokens = []
+    char = 0
+
     while char < len(json_str):
         # dict
         if char == "{":
