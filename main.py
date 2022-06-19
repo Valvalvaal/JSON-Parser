@@ -11,5 +11,16 @@ json_str = """
 """
 
 
+def isString(prev_char, char):
+    inStr = True
+    isQuotation = char == '"'
+    escapeChar = prev_char == "\\"
+
+    if isQuotation and not escapeChar:
+        return inStr
+    else:
+        return not inStr
+
+
 def tokenize(s: str) -> list:
     pass
