@@ -11,30 +11,5 @@ json_str = """
 """
 
 
-def isString(char):
-    # Implementar búsqueda de strings
-    pass
-
-
 def tokenize(s: str) -> list:
-    tokens = []
-    char = 0
-
-    while char < len(json_str):
-        # dict
-        if char == "{":
-            tokens.append = "OPEN_DICT"
-
-        # str
-        if isString(char):
-            tokens.append = "STRING"
-
-        # colon
-        if isString():
-            tokens.append = "STRING"
-
-        # comma
-
-        # int / float
-
-        # arr
+    pass
