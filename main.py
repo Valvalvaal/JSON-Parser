@@ -1,6 +1,6 @@
 # Read JSON as string
 
-json_str = """
+s = """
 {
     "k1": "value \"hey\" you",
     "k2": -10.57,
@@ -22,5 +22,33 @@ def isString(prev_char, char):
         return not inStr
 
 
-def tokenize(s: str) -> list:
-    pass
+def tokenize(json_str: str) -> list:
+    i = 0
+    tokenized = []
+
+    while i < len(json_str):
+        char = json_str[i]
+        if char == "{":
+            tokenized.append("OPEN_DICT"+str(i))
+
+        elif char == "}":
+            tokenized.append("CLOSE_DICT"+str(i))
+
+        elif char == ":":
+            tokenized.append("COLON")
+
+        elif char == ",":
+            tokenized.append("COMMA")
+
+        elif char == "[":
+            tokenized.append("OPEN_ARR")
+
+        elif char == "]":
+            tokenized.append("CLOSE_ARR")
+
+        i += 1
+
+    return tokenized
+
+
+print(tokenize(s))
